@@ -1,8 +1,6 @@
 Atari VCS Pitfall II Level Editor
 =================================
 
-Welcome
-=======
 Thanks for your interest in Atari VCS Pitfall II Level Editor. This project is
 now hosted on https://bitbucket.org/JustinLloyd/atari-vcs-pitfall-ii-level-editor
 
