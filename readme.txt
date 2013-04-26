@@ -1,13 +1,11 @@
-Atari VCS Pitfall II Level Editor
-=================================
+* Welcome
+Thanks for downloading this Atari VCS Pitfall II Level Editor
 
-Thanks for your interest in Atari VCS Pitfall II Level Editor. This project is
-now hosted on https://bitbucket.org/JustinLloyd/atari-vcs-pitfall-ii-level-editor
+Visit https://bitbucket.org/JustinLloyd/atari-vcs-pitfall-ii-level-editor/overview for 
+more information and to download the latest version.
 
 
-
-License
-=======
+* License
                       DO WHATEVER PUBLIC LICENSE*
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -22,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-=====
+* About
 This is an Atari VCS Pitfall II level editor based on the same code as the
 Pitfall II Level Designer. They may actually be identical, it has been 13 years
 since I looked at this code.
@@ -31,13 +28,11 @@ since I looked at this code.
 With this level editor you can re-create the Atari 2600 Pitfall II ROM image 
 with new level layouts and such.
 
-Pre-requisites
-==============
+* Pre-requisites
 1. VisualBASIC 6
 
 
-Support
-=======
+* Support
 Absolutely none provided.
 
 
